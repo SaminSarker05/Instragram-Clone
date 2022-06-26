@@ -16,7 +16,7 @@
 }
 
 .left-panel {
-  width: 350px;
+  width: 370px;
   height: 565px;
   border: 1px black solid;
   background: red;
@@ -28,4 +28,17 @@
   height: 565px;
   border: 1px black solid;
   background: blue;
+}
+
+.box-top {
+  width: 350px;
+  height: 390px;
+  border: 1px black solid;
+  margin-bottom: 10px;
+}
+
+.box-bottom {
+  width: 350px;
+  height: 70px;
+  border: 1px black solid;
 }
