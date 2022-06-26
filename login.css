@@ -1,0 +1,31 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+
+.main {
+  border: 1px black solid;
+  padding-top: 46px;
+  text-align: center;
+}
+
+.panel {
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.left-panel {
+  width: 350px;
+  height: 565px;
+  border: 1px black solid;
+  background: red;
+  margin-right: 35px;
+}
+
+.right-panel {
+  width: 350px;
+  height: 565px;
+  border: 1px black solid;
+  background: blue;
+}
