@@ -24,21 +24,21 @@
 .right-panel {
   width: 350px;
   height: 565px;
-  border: 1px black solid;
-  background: blue;
+  /* border: 1px black solid; */
+  /* background: blue; */
 }
 
 .box-top {
   width: 350px;
   height: 390px;
-  border: 1px black solid;
-  margin-bottom: 10px;
+  border: 1px gray solid;
+  margin-bottom: 12px;
 }
 
 .box-bottom {
   width: 350px;
   height: 70px;
-  border: 1px black solid;
+  border: 1px gray solid;
 }
 
 footer {
@@ -56,13 +56,12 @@ footer {
 .app {
   display: inline-block;
   vertical-align: middle;
-  
 }
 
 .apple {
   width: 125px;
   height: 40px;
-  border: 1px black solid;
+  border: 1px solid black;
   margin-right: 7px;
   
 }
@@ -72,7 +71,7 @@ footer {
   width: 125px;
   height: 40px;
 
-  border: 1px black solid;
+  border: 1px solid black;
 }
 
 
