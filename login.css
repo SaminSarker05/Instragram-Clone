@@ -150,7 +150,6 @@ form {
   height: 30px;
 }
 
-
 .left {
   width: 117px;
 }
@@ -166,6 +165,18 @@ form {
 .item {
   display: inline-block;
   vertical-align: middle;
+}
+
+.logo {
+  position: relative;
+}
+
+.logo p {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 20px;
 }
 
 
