@@ -1,6 +1,8 @@
 * {
   margin: 0;
   padding: 0;
+  font-size: 12px;
+  font-family: monospace;
 }
 
 .main {
@@ -130,9 +132,41 @@ form {
   height: 30px;
   border-radius: 5px;
   border: 1px solid black;
-  
 }
 
+.one {
+  margin-top: 10px;
+  margin-bottom: 14px;
+  height: 30px;
+  padding-top: 20px;
+}
+
+.two {
+  height: 30px;
+  margin-bottom: 2px;
+}
+
+.three {
+  height: 30px;
+}
+
+
+.left {
+  width: 117px;
+}
+
+.right {
+  width: 117px;
+}
+
+.one {
+  text-align: center;
+}
+
+.item {
+  display: inline-block;
+  vertical-align: middle;
+}
 
 
 
