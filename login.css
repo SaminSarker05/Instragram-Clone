@@ -15,13 +15,6 @@
   vertical-align: middle;
 }
 
-.left-panel {
-  width: 370px;
-  height: 565px;
-  background: red;
-  margin-right: 35px;
-}
-
 .right-panel {
   width: 350px;
   height: 565px;
@@ -206,6 +199,29 @@ form {
   margin-right: 10px;
 }
 
+.left-panel {
+  width: 370px;
+  height: 565px;
+  margin-right: 35px;
+}
+
+.phone-one {
+  display: inline-block;
+  float: left;
+  width: 70%; 
+  height: 95%;
+  border: 1px solid blue;
+  
+}
+
+.phone-two {
+  margin-left: -155px;
+  display: inline-block;
+  width: 70%;
+  height: 95%;
+  margin-top: 25px;
+  border: 1px solid black;
+}
 
 
 
