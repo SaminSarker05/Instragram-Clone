@@ -208,19 +208,20 @@ form {
 .phone-one {
   display: inline-block;
   float: left;
-  width: 70%; 
+  width: 80%; 
   height: 95%;
   border: 1px solid blue;
-  
+  border-radius: 30px;
 }
 
 .phone-two {
-  margin-left: -155px;
+  margin-left: -230px;
   display: inline-block;
-  width: 70%;
+  width: 80%;
   height: 95%;
   margin-top: 25px;
   border: 1px solid black;
+  border-radius: 30px;
 }
 
 
