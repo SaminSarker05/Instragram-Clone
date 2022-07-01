@@ -18,8 +18,6 @@
 .right-panel {
   width: 350px;
   height: 565px;
-  /* border: 1px black solid; */
-  /* background: blue; */
 }
 
 .box-top {
@@ -42,7 +40,6 @@ footer {
 }
 
 .app-links {
-  /* padding-top: 4px; */
   text-align: center;
 }
 
