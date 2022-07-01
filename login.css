@@ -179,7 +179,7 @@ form {
 .row {
   text-align: center;
   margin: auto;
-  height: 20px;
+  height: 25px;
 }
 
 .row ul {
@@ -193,9 +193,18 @@ form {
 }
 
 .row ul li a {
+  color: black;
   text-decoration: none;
 }
 
+.bottom {
+  margin-top: 15px;
+}
+
+.bottom ul li {
+  margin-left: 10px;
+  margin-right: 10px;
+}
 
 
 
